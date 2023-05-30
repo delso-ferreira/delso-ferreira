@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React and Unit Tests**
 
-- 🤝 I’m looking for help with **Music App**
+- 🤝 I’m looking for help with **CSS in Music App**
 
 - 📫 How to reach me **delsofelipe@gmail.com**
 
