@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/delso ferreira" target="_blank" rel="noreferrer""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delso ferreira" height="30" width="40" /></a>
- <a href="mailto:seuemail@example.com" target="_blank" rel="noreferrer""><img align="center" src="https://img.freepik.com/icones-gratis/gmail_318-674228.jpg" alt="delso ferreira" height="38" width="38" /></a>
+ <a href="mailto:delsofelipe@gmail.com" target="_blank" rel="noreferrer""><img align="center" src="https://img.freepik.com/icones-gratis/gmail_318-674228.jpg" alt="delso ferreira" height="38" width="38" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
