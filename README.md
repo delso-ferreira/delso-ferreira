@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Delso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Music App](https://github.com/delso-ferreira/music-app)
+- 🔭 I’m currently working on [RPG_Battle_App](https://github.com/delso-ferreira/RPG_Battle_App)
 
-- 🌱 I’m currently learning **Docker, Selenium**
+- 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **React and Unit Tests**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 🤝 I’m looking for help with **CSS in Music App**
-
-- 📫 How to reach me **delsofelipe@gmail.com**
+- 🤝 I’m looking for help with **RPG_Battle_APP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
