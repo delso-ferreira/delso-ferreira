@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [RPG_Battle_App](https://github.com/delso-ferreira/RPG_Battle_App)
+- 🔭 I’m currently working on [RPG Battle App](https://github.com/delso-ferreira/RPG_Battle_App)
 
 - 🌱 I’m currently learning **C#**
 
