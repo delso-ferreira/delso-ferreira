@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Delso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [RPG Battle App](https://github.com/delso-ferreira/RPG_Battle_App)
+- 🔭 I’m currently working on [Totally-Fair-Dice-Roller ](https://github.com/delso-ferreira/Totally-Fair-Dice-Roller)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 🤝 I’m looking for help with **RPG_Battle_APP**
+- 🤝 I’m looking for help with **Totally-Fair-Dice-Roller**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
