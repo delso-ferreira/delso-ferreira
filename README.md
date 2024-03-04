@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delso</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Totally-Fair-Dice-Roller ](https://github.com/delso-ferreira/Totally-Fair-Dice-Roller)
+- 🔭 I’m currently working on **Developing a new project in C#**
 
 - 🌱 I’m currently learning **Python**
 
