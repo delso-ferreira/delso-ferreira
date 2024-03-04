@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Developing a new project in C#**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects and Back End Projects**
 
 - 🤝 I’m looking for help with **Totally-Fair-Dice-Roller**
 
