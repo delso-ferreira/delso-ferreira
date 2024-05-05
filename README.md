@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Delso</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=35&pause=1000&color=23799F&background=FFE60F00&random=false&width=500&height=60&lines=Hello%2C+im+Delso...;Welcome+to+my+profile...;Im+a+Full+Stack+Web+Developer...;Feel+free+to+contribute!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Developing a new project in C#**
 
