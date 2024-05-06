@@ -18,10 +18,14 @@
 <p align="left"> <img src="https://img.shields.io/badge/HTML-blue?style=flat&logo=HTML5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=black" alt="CSS" /> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&logoColor=white" alt="Javascript" /> <img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/redux-purple?style=flat&logo=Redux&logoColor=white" alt="redux" /><img src="https://img.shields.io/badge/Vite-yellow?style=flat&logo=Vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Jest-red?style=flat&logo=Jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/RTL-white?style=flat&logo=RTL&logoColor=black" alt="RTL" /> <img src="https://img.shields.io/badge/Docker-whitesmoke?style=flat&logo=Docker&logoColor=white" alt="Docker" /><img src="https://img.shields.io/badge/MySQL-0C0C0C?style=flat&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Node-light Green?style=flat&logo=Node.js&logoColor=white" alt="Node" /> <img src="https://img.shields.io/badge/Git-696968?style=flat&logo=Git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/AWS-685DBA?style=flat&logo=amazon&logoColor=white" alt="AWS" /> <img alt='Typescript' src='https://img.shields.io/badge/typescript-purple?style=flat&logo=Typescript&logoColor=white'/>
 <br>
 
-
-
-<p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delso-ferreira" alt="delso-ferreira" /></a> </p><br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=delso-ferreira&show_icons=true&locale=en&layout=compact" alt="delso-ferreira" /></p>
 
+
+<h3 align="left">Main Repositories</h3>
+
+[![delso-ferreira/RPG_Battle_App - GitHub](https://gh-card.dev/repos/delso-ferreira/RPG_Battle_App.svg)](https://github.com/delso-ferreira/RPG_Battle_App)
+
+[![delso-ferreira/restaurant_orders - GitHub](https://gh-card.dev/repos/delso-ferreira/restaurant_orders.svg)](https://github.com/delso-ferreira/restaurant_orders)
+
+[![delso-ferreira/currency-converter - GitHub](https://gh-card.dev/repos/delso-ferreira/currency-converter.svg)](https://github.com/delso-ferreira/currency-converter)
 
