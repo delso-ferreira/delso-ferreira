@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=35&pause=1000&color=23799F&background=FFE60F00&random=false&width=500&height=60&lines=Hello%2C+im+Delso...;Welcome+to+my+profile...;Im+a+Full+Stack+Web+Developer...;Feel+free+to+contribute!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Developing a new project in C#**
+- 🔭 I’m currently working on **Hotel**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and Java**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects and Back End Projects**
 
-- 🤝 I’m looking for help with **Totally-Fair-Dice-Roller**
+- 🤝 I’m looking for help with **Hotel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,8 @@
 
 
 <h3 align="left">Main Repositories</h3>
+
+[![delso-ferreira/RPG_Battle_App - GitHub](https://gh-card.dev/repos/delso-ferreira/Hotel.svg)](https://github.com/delso-ferreira/Hotel)
 
 [![delso-ferreira/RPG_Battle_App - GitHub](https://gh-card.dev/repos/delso-ferreira/RPG_Battle_App.svg)](https://github.com/delso-ferreira/RPG_Battle_App)
 
