@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Hotel**
 
-- 🌱 I’m currently learning **C# and Java**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects and Back End Projects**
 
